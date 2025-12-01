@@ -1,8 +1,3 @@
-# rooted-shared-ui
-Reusable components, layouts, and patterns shared across all ROOTED vertical apps. Styling and interactions only — no business logic or governance.
-
-
----
 
 ## Governance Boundaries
 
@@ -17,3 +12,14 @@ All governance and access control lives in:
 → https://github.com/.../rooted-platform
 
 Any change that attempts to bypass ROOTED governance is invalid by design.
+
+
+---
+
+
+# rooted-shared-ui
+Reusable components, layouts, and patterns shared across all ROOTED vertical apps. Styling and interactions only — no business logic or governance.
+
+
+---
+
